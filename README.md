@@ -1,9 +1,26 @@
-# gstonarmbian
+# GStreamer-1.12.2 rtsp server on Armbian
 INSTALLATION
 ------------
 
 REQUIREMENTS
 ------------
+
+
+      build-essential
+      bison
+      flex
+      libglib2.0-0
+      libglib2.0-dev
+      v4l-utils
+      autoconf
+      automake
+      gettext
+      libtool
+      libx11-dev
+      libxv-dev
+      libxt-dev
+      x264
+      libx264-dev
 
 QUICK START
 -----------
