@@ -1,5 +1,12 @@
 # gstonarmbian
+INSTALLATION
+------------
 
+REQUIREMENTS
+------------
+
+QUICK START
+-----------
 sudo service ssh start
 sudo vim /etc/environment
 
